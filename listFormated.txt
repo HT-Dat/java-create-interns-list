@@ -1,0 +1,380 @@
+SA130103; Nguyễn Ngọc Thiên Thanh ;Thiết kế đồ họa (GD); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA ;Không đăng ký online ;Chỉ định Công ty 
+SE150039; Hồng Nhật Dương ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT 
+SE151163; Đặng Minh Tuấn ;Trí tuệ nhân tạo (AI); CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT 
+SE150719; Nguyễn Vũ Dũng ;Trí tuệ nhân tạo (AI); CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT 
+SE140160; Lê Đức Thịnh ;Trí tuệ nhân tạo (AI); CÔNG TY CỔ PHẦN BE GROUP 
+SE151017; Bùi Gia Quang ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN CÔNG NGHỆ GEEK UP 
+SA150145; Hồ Thị Phương Dung ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN ĐÀO TẠO QUỐC TẾ CA LI 
+SA150007; Nguyễn Thái Bảo ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN ĐÀO TẠO QUỐC TẾ CA LI 
+SA150106; Trần Hà Trung ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN ĐÀO TẠO QUỐC TẾ CA LI 
+HS140520; Tô Hoàng Linh ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN ĐẦU TƯ BESTB GROUP 
+SE150676; Tăng Chí Cường ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG ;Đã được nhận 
+SE150990; Hồ Quang Phúc ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG 
+SE140492; Nguyễn Huỳnh Vân Anh ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG 
+SE140822; Nguyễn Thị Thùy Linh ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG 
+SE150562; Trần Minh Quân ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG 
+SS140452; Ngô Ngọc Bách ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN DỊCH VỤ BẤT ĐỘNG SẢN ĐẤT XANH 
+SS140093; Nguyễn Phước Hiển ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN DỊCH VỤ BẤT ĐỘNG SẢN ĐẤT XANH 
+SS140373; Trần Nguyễn Diễm Quyên ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN DỊCH VỤ BẤT ĐỘNG SẢN ĐẤT XANH 
+SE140549; Lê Văn Lương ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ 
+SE140594; Nguyễn Thanh Trọng ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ 
+SE150105; Trần Bảo Duy ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ 
+SE150136; Triệu Thành Đạt ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ 
+SS140203; Phan Anh Minh ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN HỌC VIỆN QUỐC TẾ ANH 
+SE151182; Đoàn Khánh Vinh ;Thiết kế đồ họa (GD); CÔNG TY CỔ PHẦN HỌC VIỆN QUỐC TẾ ANH 
+SS150036; Bùi Nguyễn Quang Huy ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN HỌC VIỆN QUỐC TẾ ANH 
+SA140251; Nguyễn Quốc Long ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN MAJOR EDUCATION ;Không đăng ký online ;Chỉ định Công ty 
+SS150325; Phạm Xuân Khang ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN MAJOR EDUCATION 
+SA140245; Cao Ngọc Khánh Trân ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN MAJOR EDUCATION 
+SA150012; Hồ Công Thành ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN MAJOR EDUCATION 
+SA150085; Huỳnh Phát ;Ngôn ngữ Anh (EL); CÔNG TY CỔ PHẦN MAJOR EDUCATION 
+SE150717; Trần Trí Dũng ;Thiết kế đồ họa (GD); CÔNG TY CỔ PHẦN PHÁT TRIỂN TRUYỀN THÔNG QUẢNG CÁO MAC VIỆT NAM 
+SS140182; Châu Bích Trâm ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN PHÁT TRIỂN TRUYỀN THÔNG QUẢNG CÁO MAC VIỆT NAM 
+SS140394; Chề Ngọc Nguyên ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN PHÁT TRIỂN TRUYỀN THÔNG QUẢNG CÁO MAC VIỆT NAM 
+SS140399; Nguyễn Lê Khả Nhi ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN PHÁT TRIỂN TRUYỀN THÔNG QUẢNG CÁO MAC VIỆT NAM 
+SS140086; Nguyễn Thanh Thảo Vy ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN PHÁT TRIỂN TRUYỀN THÔNG QUẢNG CÁO MAC VIỆT NAM 
+SE140791; Huỳnh Thái Hòa ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN SÀI GÒN LAB (SAIGONLAB); 
+SE140778; Ngô Lâm Trường ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN SÀI GÒN LAB (SAIGONLAB); 
+SE130044; Từ Đức Minh ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN SÀI GÒN LAB (SAIGONLAB); 
+SE151235; Dương Chí Hùng ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN TECHLAB 
+SS150370; Nguyễn Tường Như ;Digital Marketing (DM); CÔNG TY CỔ PHẦN TI KI 
+SS150412; Trần Nguyên Thuận ;Digital Marketing (DM); CÔNG TY CỔ PHẦN TI KI 
+HS140509; Nguyễn Vũ Mỹ Duyên ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN TI KI 
+SS130317; Đoàn Trịnh Thiên Phước ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS140131; Huỳnh Dương Ngọc Châu ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS140371; Lý Kim Biên ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS140374; Nguyễn Ngọc Như Ý ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+HS140506; Trần Thị Thúy ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS150646; Trần Thị Hải Xuân ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS130130; Võ Quang Phương Nam ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TI KI 
+SS150083; Mai Đặng Gia Bảo ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN TI KI 
+SS150416; Nguyễn Lê Thanh Thủy ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN TI KI 
+SS150404; Nguyễn Ngọc Thanh Thảo ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN TI KI 
+SS150533; Vương Phối Văn ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN TI KI 
+SS150337; Trần Khánh Linh ;Truyền thông đa phương tiện (MC); CÔNG TY CỔ PHẦN TƯ VẤN VÀ GIÁO DỤC JOHN&PARTNERS 
+SS140205; Trịnh Tiến Đôn ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN TƯ VẤN XÂY DỰNG TOÀN ĐẠI DƯƠNG 
+SS140431; Hồ Nguyên Vinh ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN VIỄN THÔNG FPT 
+SS140107; Nguyễn Ngọc Thiên Tân ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN VIỄN THÔNG FPT 
+SS140425; Lê Thọ Minh Hoàng ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN VIỄN THÔNG FPT 
+SE151052; Triệu Chu Quốc Thái ;Thiết kế đồ họa (GD); CÔNG TY CỔ PHẦN VNG 
+SE150214; Lê Nguyên Phương ;Trí tuệ nhân tạo (AI); CÔNG TY CỔ PHẦN VNG 
+SE140298; Võ Minh Hoàng ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN WISKY 
+SE130379; Vũ Anh Dũng ;An toàn thông tin (IA); CÔNG TY CỔ PHẦN WISKY 
+SS150317; Lê Nguyễn Đức Huy ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN WISKY 
+SS150415; Nguyễn Hoài Thương ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN WISKY 
+SS150401; Trần Hoàng Thị Thu Thảo ;Kinh doanh quốc tế (IB); CÔNG TY CỔ PHẦN WISKY 
+SE151004; Nguyễn Phạm Minh Quân ;Kỹ thuật phần mềm (SE); CÔNG TY CỔ PHẦN WISKY 
+SS140170; Nguyễn Thị Lan Anh ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN WISKY 
+SS140430; Phạm Trường An ;Quản trị kinh doanh (BA); CÔNG TY CỔ PHẦN WISKY 
+SE140081; Trương Quang Thái ;Thiết kế đồ họa (GD); CÔNG TY CỔ PHẦN WISKY 
+SE150144; Nguyễn Đức Thanh Ngọc ;Kỹ thuật phần mềm (SE); CÔNG TY CP CÔNG NGHỆ TỐC ĐỘ ÁNH SÁNG 
+SE150383; Nguyễn Đăng Dũng ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ CÔNG NGHỆ ARENA 
+SE150761; Bùi Thúy Hiền ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE151048; Đào Lê Nhật Tân ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE150030; Hồ Thị Thanh Thảo ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE150020; Huỳnh Thiện Nhân ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE150003; Lê Nguyệt Song Thư ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE150658; Lê Xuân Bảo ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE151439; Nguyễn Phúc Thiên An ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SA140230; Nguyễn Phương Thanh ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SE150162; Nguyễn Tấn Phúc ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SA140300; Nguyễn Thị Ngọc Hân ;Thiết kế đồ họa (GD); CÔNG TY CP DỊCH VỤ XUẤT BẢN GIÁO DỤC GIA ĐỊNH 
+SS150264; Nguyễn Đức Bình ;Truyền thông đa phương tiện (MC); CÔNG TY CP THƯƠNG MẠI DỊCH VỤ GIẢI TRÍ SỐ VIỆT NAM 
+SS140468; Nguyễn Ngọc Hoài An ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online ;Chỉ định Công ty 
+SS150056; Phạm Thị Lê Mai ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online ;Chỉ định Công ty 
+SS150590; Bùi Ngọc Nam ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SS140410; Đào Minh Dũng ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SS150486; Lê Võ Phương Trang ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SS140349; Hồ Thị Trà My ;Kinh doanh quốc tế (IB); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SS140068; Phạm Như Ý ;Kinh doanh quốc tế (IB); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE151220; Bùi Lê Quốc Bảo ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE150914; Đoàn Nhật Minh ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE151148; Lê Minh Tú ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE151320; Ngô Ngọc Vũ Hải ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE140194; Nguyễn Hoàng Duy ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SA140222; Trần Huy ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SA140144; Trần Công Thành Đạt ;Thiết kế đồ họa (GD); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SS130167; Lê Minh Bách ;Truyền thông đa phương tiện (MC); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN 
+SE150050; Hoàng Phước Thành ;Kỹ thuật phần mềm (SE); CÔNG TY GEEK UP 
+SE150462; Văn Nhật Thành ;Kỹ thuật phần mềm (SE); CÔNG TY IC INOVATION 
+SE150282; Phạm Thùy Trang ;Thiết kế đồ họa (GD); CÔNG TY RED CAT MOTION 
+SS140473; Trương Mỹ Châu ;Quản trị kinh doanh (BA); CÔNG TY THINK DIGITAL 
+SE150955; Lương Hoàng Nhân ;Thiết kế đồ họa (GD); CÔNG TY TNHH ALIPO VIỆT NAM 
+SE140041; Nguyễn Đăng Hồng Phương ;Thiết kế đồ họa (GD); CÔNG TY TNHH ALIPO VIỆT NAM 
+SE140889; Nguyễn Minh Quân ;Thiết kế đồ họa (GD); CÔNG TY TNHH ALIPO VIỆT NAM 
+SA140361; Nguyễn Võ Tịnh Nhi ;Thiết kế đồ họa (GD); CÔNG TY TNHH ALIPO VIỆT NAM 
+SE151473; Võ Minh Quang ;Thiết kế đồ họa (GD); CÔNG TY TNHH ALIPO VIỆT NAM 
+SS140099; Lê Ngọc Tâm ;Kinh doanh quốc tế (IB); CÔNG TY TNHH BẰNG HỮU VIỆT 
+SE140323; Nguyễn Trường Thịnh ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH CÔNG NGHỆ K&G 
+SE150004; Trần Phương Nam ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH CÔNG NGHỆ K&G 
+SE151312; Hồ Hữu Phát ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SE151098; Lại Đình Thuận ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SE140735; Nguyễn Văn Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SE141009; Phạm Quốc Anh Khôi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SE130739; Phan Lưu Khánh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SE150070; Trần Minh Quân ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN ELCA 
+SA130147; Phan Quỳnh Nam Phương ;Ngôn ngữ Anh (EL); CÔNG TY TNHH DATACARE ;Đã được nhận 
+SS140226; Nguyễn Xuân Anh ;Quản trị kinh doanh (BA); CÔNG TY CP TRUYỀN THÔNG NEW WAY VN ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SS140314; Nguyễn Hoàng Mai Phương ;Kinh doanh quốc tế (IB); CÔNG TY TNHH DATACARE 
+SS140305; Trần Huỳnh Giao ;Kinh doanh quốc tế (IB); CÔNG TY TNHH DATACARE 
+SS140024; Đoàn Thị Ngọc Anh ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140332; Lê Hoài Thu ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140323; Lê Mỹ Anh ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140032; Lê Thu Phương ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140453; Phạm Minh Tuấn ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS130226; Tạ Quang Lộc ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS150589; Trần Nguyên Trạng ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140304; Trương Lâm Thành Đức ;Quản trị kinh doanh (BA); CÔNG TY TNHH DATACARE 
+SS140338; Nguyễn Mộc Xanh ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH DATACARE 
+SS140186; Nguyễn Ngọc Bảo Trân ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH DATACARE 
+SA150144; Đinh Gia Khánh ;Ngôn ngữ Anh (EL); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SA150094; Nguyễn Trần Hải Sơn ;Ngôn ngữ Anh (EL); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SA140404; Vũ Khải Hồng Khiêm ;Ngôn ngữ Anh (EL); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SS150389; Đinh Nguyễn Hoàng Tâm ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SS150588; Nguyễn Anh Tú ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SS140214; Từ Mỹ Ân ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH DỊCH VỤ & TỔ CHỨC SỰ KIỆN K.I.S.S 
+SE140121; Đặng Tuấn Anh ;Thiết kế đồ họa (GD); CÔNG TY TNHH DỊCH VỤ VIPROPERTY 
+SS150599; Nguyễn Chí Nguyện ;Kinh doanh quốc tế (IB); CÔNG TY TNHH GIẢI PHÁP CNTT TÂN CẢNG 
+SE140617; Phạm Hoàng Hoài Tân ;An toàn thông tin (IA); CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG TEL4VN ;Không đăng ký online ;Chỉ định Công ty 
+SE63084 ;Võ Ngọc Minh Thi ;An toàn thông tin (IA); CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG TEL4VN ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE150889; Nguyễn Ngọc Bảo Long ;An toàn thông tin (IA); CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG TEL4VN 
+DS140201; Lê Việt Anh ;Kinh doanh quốc tế (IB); CÔNG TY TNHH HADU VIỆT NAM 
+SE140633; Hoàng Thanh Phong ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH HARVEY NASH VIỆT NAM ;Đã được nhận 
+SE151055; Khúc Ngọc Thái ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH HARVEY NASH VIỆT NAM ;Đã được nhận 
+SE140481; Phạm Duy Phương ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH HARVEY NASH VIỆT NAM ;Đã được nhận 
+SE150204; Trần Bảo Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH HARVEY NASH VIỆT NAM ;Đã được nhận 
+SE140023; Ngô Ngọc Trí Anh ;An toàn thông tin (IA); CÔNG TY TNHH HARVEY NASH VIỆT NAM 
+SE151317; Trần Phạm Kim Sơn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH HARVEY NASH VIỆT NAM 
+SE140944; Hoàng Ngọc Châu ;An toàn thông tin (IA); CÔNG TY TNHH ITSTAR VN 
+SE150163; Đặng Trần Nam ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE151249; Hồ Tiến Đạt ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE151271; Nguyễn Dũng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE140188; Nguyễn Nhật Khang ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE151233; Nguyễn Tống Gia Huy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE150974; Nguyễn Trần Phong ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE140344; Nguyễn Trung Thịnh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE150499; Phan Ngọc Hoàng Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE150055; Trần Hồng Quân ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM 
+SE150100; Bùi Gia Hân ;Thiết kế đồ họa (GD); CÔNG TY TNHH LIMINAL MEDIA 
+SE141186; Đặng Thị Ngọc Thy ;Thiết kế đồ họa (GD); CÔNG TY TNHH LIMINAL MEDIA 
+SS140262; Đinh Thị Ngọc Huân ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150598; Lê Ngọc Bảo Dung ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150544; Lý Quốc Phong ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150395; Nguyễn Nhàn Hương Thanh ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150394; Phạm Thị Thanh Thanh ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150596; Phùng Quốc Long ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150262; Tan Bean ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150462; Vũ Minh Phương ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH LIMINAL MEDIA 
+SS150493; Nguyễn Phúc Thanh Bình ;Kinh doanh quốc tế (IB); Công Ty TNHH MEU SOLUTIONS 
+SE150885; Phan Thiếu Long ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH MTV SAIGON A.I. ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE151216; Nguyễn Diễm Uyên Phương ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH MTV SAIGON A.I. 
+SS130144; Nguyễn Hải Ý ;Kinh doanh quốc tế (IB); CÔNG TY TNHH MTV SYDNEY HOTEL 
+SS140230; Nguyễn Trọng Khoa ;Quản trị kinh doanh (BA); Công ty TNHH MTV THƯƠNG HIỆU VÀ DI SẢN (THE MONEST AGENCY); 
+SE140585; Trần Thành Long ;Thiết kế đồ họa (GD); Công ty TNHH MTV THƯƠNG HIỆU VÀ DI SẢN (THE MONEST AGENCY); 
+SS150477; Phạm Ngọc Anh Thư ;Truyền thông đa phương tiện (MC); Công ty TNHH MTV THƯƠNG HIỆU VÀ DI SẢN (THE MONEST AGENCY); 
+SS150356; Phạm Thị Tú Ngân ;Truyền thông đa phương tiện (MC); Công ty TNHH MTV THƯƠNG HIỆU VÀ DI SẢN (THE MONEST AGENCY); 
+SS140014; Nguyễn Đăng Danh ;Quản trị kinh doanh (BA); CÔNG TY TNHH MTV TM SX T H Ị NH P H Ú P H Á T FURNITURE 
+SE150150; Nguyễn Tài Lộc ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH NGHIÊN CỨU, SX PHẦN MỀM VÀ TRÍ TUỆ NHÂN TẠO CEREBRO 
+SE151033; Nguyễn Tri Tài ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH NGHIÊN CỨU, SX PHẦN MỀM VÀ TRÍ TUỆ NHÂN TẠO CEREBRO 
+SE151225; Võ Phúc Huy ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH NGHIÊN CỨU, SX PHẦN MỀM VÀ TRÍ TUỆ NHÂN TẠO CEREBRO 
+SE150193; Lê Nguyễn Hữu Quốc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PARCEL PERFORM TECH HUB 
+SE150780; Thủy Võ Anh Hoàng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PARCEL PERFORM TECH HUB 
+SS140441; Nguyễn Thành Thắng ;Kinh doanh quốc tế (IB); CÔNG TY TNHH DƯỢC ĐỖ QUÂN 
+SS140217; Nguyễn Gia Huy ;Kinh doanh quốc tế (IB); CÔNG TY TNHH PARIS LOGISTICS 
+SS140039; Phan Thị Lan Anh ;Kinh doanh quốc tế (IB); CÔNG TY TNHH PARIS LOGISTICS 
+SE63278 ;Trần Đức Linh ;An toàn thông tin (IA); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Đã được nhận 
+SE150633; Nguyễn Tuấn Anh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Đã được nhận 
+SE150068; Từ Trọng Đức ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Đã được nhận 
+SE140628; Cao Chánh Đức ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE140997; Đào Nguyễn Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE150854; Lê Hoàng Khôi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE151346; Ngô Đức Tuấn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE151288; Nguyễn Thành Công ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE150944; Nguyễn Võ Bảo Nguyên ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE140472; Phạm Hữu Nghĩa ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+HE140651; Phạm Văn Mạnh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE130265; Thiều Quốc Tuấn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online ;Chỉ định Công ty 
+SE62052 ;Đỗ Ngọc Tuấn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140089; Đỗ Nguyễn Thành Lâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140412; Huỳnh Nhựt Hào ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140638; Lê Quang Lộc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140008; Lương Khải Xương ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140264; Nguyễn Duy Bảo ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE62699 ;Nguyễn Hữu Phương Nam ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE130655; Nguyễn Thái Hoàn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140201; Phạm Hoàng Tú ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE150850; Trần Khải Minh Khôi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE130763; Trần Trung Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140992; Trần Ngọc Tú ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH ;Gửi mail bổ sung 
+SE140788; Hoàng Ngọc Long ;An toàn thông tin (IA); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140470; Nguyễn Minh Thông ;An toàn thông tin (IA); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140896; Bành Đức Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140751; Bảo Quốc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130306; Bùi Ngọc Minh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140456; Cao Hoàng Phát Lộc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140906; Châu Quốc Tuấn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140474; Cún Phương Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140276; Đào Hồng Sơn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140967; Đào Minh Luật ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140556; Đào Tấn Tỷ ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140375; Diệp Ngọc Huy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141081; Diệp Quốc Lộc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140541; Đinh Thị Như Quỳnh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150867; Đỗ Hoàng Lâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140354; Đỗ Ngọc Phúc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140777; Đỗ Tuấn Kiệt ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140180; Đoàn Khoa Bảo ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140175; Dương Kim Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140539; Hà Thanh Vi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140998; Hồ Quốc Khải ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140985; Hồ Vĩnh Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140887; Hứa Minh Luân ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140569; Huỳnh Phú Quí ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141143; Huỳnh Thế Khoa ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140494; Huỳnh Thị Khánh Trâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141134; Lại Nguyễn Quốc Thái ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141007; Lâm Minh Bửu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140003; Lê Công Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130032; Lê Hoành Khánh Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140874; Lê Hữu Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140421; Lê Huỳnh Hoàng Dương ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140641; Lê Phi Hải ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141039; Lê Phước Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140313; Lê Quang Vinh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130580; Lê Thành Đạt ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140801; Lê Thị Cẩm Như ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140015; Lê Trọng Thắng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150056; Lưu Đức Hùng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140614; Lưu Quốc Vinh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140952; Lý Định Công Minh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140266; Ngô Bỉnh Quyền ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130159; Ngô Thành Trí ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141097; Ngô Xuân Bách ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141017; Nguyễn Bá Tâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140371; Nguyễn Công Thái Sơn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140452; Nguyễn Đặng Phú ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130406; Nguyễn Đức Hoàng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE151274; Nguyễn Gia Nguyên ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE151070; Nguyễn Hà Thiên ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140531; Nguyễn Hoàng Minh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140816; Nguyễn Hoàng Nam ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130333; Nguyễn Hoàng Bảo Phúc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140227; Nguyễn Hoàng Tấn Phát ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140888; Nguyễn Hồng Nhân ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140548; Nguyễn Hữu Tâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140397; Nguyễn Hữu Toàn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141123; Nguyễn Huy Hoàng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130517; Nguyễn Huỳnh Nhật Minh ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141094; Nguyễn Khôi Nguyên ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141052; Nguyễn Lâm Thanh Tú ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140285; Nguyễn Lê Hoài Hảo ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141042; Nguyễn Lê Huy Hoàng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141050; Nguyễn Lê Thăng Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130222; Nguyễn Mạnh Cường ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130280; Nguyễn Mạnh Kiên ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150507; Nguyễn Ngọc Bình ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130075; Nguyễn Ngọc Tín ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130276; Nguyễn Ngọc Minh Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140662; Nguyễn Phạm Đăng Khoa ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141140; Nguyễn Phạm Hoàng Thái ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150693; Nguyễn Quốc Đạt ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140073; Nguyễn Tấn Tài ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140842; Nguyễn Thanh Liêm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE151261; Nguyễn Thiên Phúc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140340; Nguyễn Tiến Hưng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140253; Nguyễn Tuấn Hoàng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE151228; Nguyễn Tuấn Khải ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140193; Nguyễn Văn Lưng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140025; Nguyễn Văn Quang ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140738; Phạm Long Nhân ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140895; Phạm Mạnh Toàn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140145; Phạm Quốc Hùng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140197; Phạm Thanh Đạt ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140843; Phạm Thanh Tùng ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140773; Phạm Văn Dương ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140278; Phạm Văn Hiệp ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140850; Phạm Việt Tài ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141100; Phan Nguyễn Hồng Vũ ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140736; Phong Thanh Nhi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140060; Thái Đức Lợi ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140580; Thân Minh Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140971; Thân Thanh Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141138; Trần Bạch Dương ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140907; Trần Kim Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140293; Trần Mạnh Hiệp ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141089; Trần Minh Quang ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140647; Trần Phạm Gia Bảo ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140069; Trần Quang Phát ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140620; Trần Sơn Hà ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140352; Trần Thị Hải Hà ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140962; Trần Trung Tá ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140446; Trần Văn Long ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140833; Trịnh Anh Tài ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140059; Trịnh Gia Huy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE62859 ;Trịnh Lê Cát Tường ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE04257 ;Trương Chí Tâm ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140172; Trương Hoàng Huy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130305; Từ Minh Duy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141158; Võ Minh Hiếu ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140881; Võ Minh Tiến ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141048; Võ Quốc Huy ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150980; Võ Văn Thanh Phúc ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140819; Vũ Anh Tuấn ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE130437; Vũ Đình Hải ;Kỹ thuật phần mềm (SE); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150300; Nguyễn Hoàng Ánh Linh ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE150614; Nguyễn Tiến Dũng ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE141071; Quách Văn Đang ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE151525; Tạ Minh Tiến ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH PHẦN MỀM FPT HỒ CHÍ MINH 
+SE140198; Nguyễn Công Thức ;Kỹ thuật phần mềm (SE); CÔNG TY PMAX 
+SE140608; Đặng Hữu Nhân ;Thiết kế đồ họa (GD); CÔNG TY TNHH PIZITECH 
+SE140632; Nguyễn Quang Phúc ;Thiết kế đồ họa (GD); CÔNG TY TNHH PIZITECH 
+SE140105; Phạm Quang Vinh ;Thiết kế đồ họa (GD); CÔNG TY TNHH PIZITECH 
+SE150608; Huỳnh Thị Thảo Uyên ;Thiết kế đồ họa (GD); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA ;Không đăng ký online ;Chỉ định Công ty 
+SE150569; Trần Lưu Hà Thanh ;Thiết kế đồ họa (GD); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE150982; Trần Thiên Phúc ;Thiết kế đồ họa (GD); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA ;Không đăng ký online, Vắng ORT ;Chỉ định Công ty 
+SE140928; Phạm Hoàng Phúc ;Thiết kế đồ họa (GD); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA 
+SS150464; Nguyễn Hoàng Ngọc Khanh ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA 
+SS150601; Trần Anh Khoa ;Truyền thông đa phương tiện (MC); CÔNG TY TNHH QUẢNG CÁO - TƯ VẤN - TỔ CHỨC BIỂU DIỄN CÁT TIÊN SA 
+SS140316; Bùi Huệ Chinh ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS140422; Lê Huỳnh Như Ngọc ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS140002; Phạm Anh Thiện Tùng ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS150593; Trần Nguyễn Trúc Ly ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS140312; Trần Quốc Đạt ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS140313; Trần Thị Diễm Trinh ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS150594; Võ Văn Trí ;Kinh doanh quốc tế (IB); CÔNG TY TNHH TMDV MẠNG LƯỚI THÔNG MINH 
+SS150019; Lưu Yến Băng Trúc ;Quản trị kinh doanh (BA); CÔNG TY TNHH VIHAT 
+SE150774; Cao Ngọc Hiếu ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH VIHAT 
+SE150646; Lê Sơn Bách ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH WISDOM ENGINEERING & BUSINESS SOLUTIONS 
+SE150121; Nguyễn Gia Huy ;Trí tuệ nhân tạo (AI); CÔNG TY TNHH WISDOM ENGINEERING & BUSINESS SOLUTIONS 
+SE150069; Nguyễn Đức Nguyên Khôi ;Thiết kế đồ họa (GD); CTY TNHH MTV TẬP ĐOÀN ĐẠI CÁT (BRACOM AGENCY); 
+SE151097; Nguyễn Huỳnh Công Thụ ;Thiết kế đồ họa (GD); CTY TNHH MTV TẬP ĐOÀN ĐẠI CÁT (BRACOM AGENCY); 
+SE151061; Phan Thị Bảo Thanh ;Thiết kế đồ họa (GD); CTY TNHH MTV TẬP ĐOÀN ĐẠI CÁT (BRACOM AGENCY); 
+SS150308; Nguyễn Chấn Hưng ;Truyền thông đa phương tiện (MC); CTY TNHH MTV TẬP ĐOÀN ĐẠI CÁT (BRACOM AGENCY); 
+SS140106; Nguyễn Thanh Hòa ;Truyền thông đa phương tiện (MC); EDUTALK 
+SS130328; Trần Đại Dương ;Quản trị kinh doanh (BA); FIKA SOCIAL VIETNAM LLC 
+SE151540; Nguyễn Xuân Nhâm ;Trí tuệ nhân tạo (AI); FPT SOFTWARE (QUY NHƠN); 
+SE130528; Trần Ty Gơ ;Kỹ thuật phần mềm (SE); HỌC VIỆN HÀNG KHÔNG VIETJET ;Đã được nhận 
+SE150021; Đặng Minh Quân ;Kỹ thuật phần mềm (SE); HỌC VIỆN HÀNG KHÔNG VIETJET 
+SE150352; Lê Nguyễn Minh Khoa ;Kỹ thuật phần mềm (SE); HỌC VIỆN HÀNG KHÔNG VIETJET 
+SE150721; Nguyễn Quang Dũng ;Kỹ thuật phần mềm (SE); HỌC VIỆN HÀNG KHÔNG VIETJET 
+SE150746; Nguyễn Trường Giang ;Kỹ thuật phần mềm (SE); HỌC VIỆN HÀNG KHÔNG VIETJET 
+SS140469; Trương Lê Ngọc Loan ;Quản trị kinh doanh (BA); JW MARRIOTT PHU QUOC EMERALD BAY ;Hoán kỳ Summer 2021 
+SS140345; Phan Vĩnh Tường ;Kinh doanh quốc tế (IB); JW MARRIOTT PHU QUOC EMERALD BAY 
+SS140387; Trần Công Chính ;Quản trị kinh doanh (BA); NGÂN HÀNG TMCP QUÂN ĐỘI 
+SE151089; Đào Lê Bảo Thoa ;Trí tuệ nhân tạo (AI); SUNSHINE GROUP 
+SS150509; Lê Nguyễn Minh Quang ;Quản trị kinh doanh (BA); TALENT MIND EDUCATION 
+SS150055; Nguyễn Hữu Anh Kiên ;Truyền thông đa phương tiện (MC); TALENT MIND EDUCATION 
+SE140908; Nguyễn Võ Hoàng Long ;Kỹ thuật phần mềm (SE); THẾ GIỚI DI ĐỘNG (MWG); Đã được nhận 
+SE150246; Thái Võ Trung Nghĩa ;Kỹ thuật phần mềm (SE); THẾ GIỚI DI ĐỘNG (MWG); Đã được nhận 
+SS140012; Nguyễn Lê Anh Thư ;Quản trị kinh doanh (BA); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SS140383; Phạm Thị Thu ;Quản trị kinh doanh (BA); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SE151424; Đặng Gia Bảo ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SE151172; Đỗ Ngọc Khánh Uyên ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SA140351; Huỳnh Chung Thùy ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SA140309; Lê Hồng Bảo Uy ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SA140052; Lê Triều Vân ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SE151321; Lưu Khánh Hân ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SA140308; Trần Hoàng Vũ ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SE151207; Vũ Bội Trân ;Thiết kế đồ họa (GD); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SS150603; Phan Nguyễn Long Đức ;Truyền thông đa phương tiện (MC); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL 
+SS150587; Vũ Hoài Nam ;Truyền thông đa phương tiện (MC); TỔNG CÔNG TY DỊCH VỤ SỐ VIETTEL
